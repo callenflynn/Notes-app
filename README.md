@@ -6,7 +6,7 @@ Website: [Here](https://Shadowniko1.github.io)
 
 It can say it's a virus but it's open source
 
-## Installation
+## Installation ( not working now (((( )
 
 ### Windows
 - **MSI Installer (Recommended)**: Download the latest `.msi` from [releases](https://github.com/Shadowniko1/Notes-app/releases/latest)
